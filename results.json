@@ -1,0 +1,72 @@
+{
+    "search_results": [
+        {
+            "id": 101,
+            "name": "Ankita",
+            "course": "ENTC",
+            "marks": 88
+        },
+        {
+            "id": 102,
+            "name": "Rahul",
+            "course": "Computer",
+            "marks": 72
+        },
+        {
+            "id": 103,
+            "name": "Neha",
+            "course": "IT",
+            "marks": 91
+        },
+        {
+            "id": 104,
+            "name": "Amit",
+            "course": "ENTC",
+            "marks": 68
+        },
+        {
+            "id": 105,
+            "name": "Priya",
+            "course": "Computer",
+            "marks": 84
+        },
+        {
+            "id": 106,
+            "name": "Rohan",
+            "course": "IT",
+            "marks": 76
+        }
+    ],
+    "filtered_results": [
+        {
+            "id": 101,
+            "name": "Ankita",
+            "course": "ENTC",
+            "marks": 88
+        },
+        {
+            "id": 103,
+            "name": "Neha",
+            "course": "IT",
+            "marks": 91
+        },
+        {
+            "id": 105,
+            "name": "Priya",
+            "course": "Computer",
+            "marks": 84
+        },
+        {
+            "id": 106,
+            "name": "Rohan",
+            "course": "IT",
+            "marks": 76
+        }
+    ],
+    "summary": {
+        "total_students": 6,
+        "average_marks": 79.83333333333333,
+        "highest_marks": 91,
+        "lowest_marks": 68
+    }
+}
